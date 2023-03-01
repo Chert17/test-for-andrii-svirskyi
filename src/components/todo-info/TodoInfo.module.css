@@ -1,0 +1,18 @@
+.infoWrapper {
+  width: 400px;
+  padding: 20px;
+  background-color: #dedede;
+  border: solid 1px transparent;
+  border-radius: 16px;
+}
+
+.infoTitle {
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 12px;
+  word-wrap: break-word;
+}
+
+.infoDescr {
+  word-wrap: break-word;
+}
